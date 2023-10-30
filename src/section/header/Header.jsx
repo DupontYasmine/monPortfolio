@@ -1,4 +1,4 @@
-import HeaderImage from '../../assets/hero1-bg.jpg'
+import HeaderImage from '../../assets/about.jpg'
 import data from './data'
 import './header.css'
 
