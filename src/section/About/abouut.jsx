@@ -18,10 +18,9 @@ const About = () => {
                    
                 </div>
                 <p>
-                Afin de mener à bien mon projet professionnel, je souhaite désormais approfondir mes connaissances dans ce domaine.
-Durant ma formation à l’ETNA, j’ai pu acquérir les fondamentaux de la programmation. Je suis capable de m’adapter et de répondre aux problématiques techniques de votre
-entreprise. La pédagogie par projet m’a permis de gagner en autonomie en me permettant d’apprendre à me poser les bonnes questions pour grandir et avancer.
-Étant disponible dès maintenant, je serais ravi de vous rencontrer lors d’un entretien !
+                Je suis passionné par le développement web. Bien que je n'aie pas encore d'expérience professionnelle dans le domaine, je suis déterminé à acquérir les compétences nécessaires pour exceller en tant que développeur web.
+                Au cours de mes études, j'ai développé une solide compréhension des concepts fondamentaux de la programmation et des langages tels que HTML, CSS et JavaScript.
+                Je suis actuellement à la recherche d'opportunités pour mettre en pratique mes compétences et acquérir une expérience concrète en tant que développeur web. Mon objectif est de contribuer de manière significative à des projets stimulants et de continuer à élargir mes compétences dans le domaine.
                 </p>
                 <p>
                 Consultez mon CV ci-dessous !!
